@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emeline.carre@orange.fr
+	name = Emeline CARRE
